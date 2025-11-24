@@ -1,0 +1,126 @@
+{
+    "match_id": "eng-aus-t20-2025-11-24",
+    "series": "England vs Australia T20 Series 2025",
+    "match_number": 1,
+    "format": "T20",
+    "date": "2025-11-24",
+    "venue": "Melbourne Cricket Ground",
+    "city": "Melbourne",
+    "country": "Australia",
+    "toss": {
+        "winner": "Australia",
+        "decision": "bat"
+    },
+    "teams": {
+        "team1": {
+            "name": "Australia",
+            "captain": "Pat Cummins",
+            "wicketkeeper": "Josh Inglis",
+            "players": [
+                {"name": "David Warner", "id": "warner_d", "role": "opener"},
+                {"name": "Aaron Finch", "id": "finch_a", "role": "opener"},
+                {"name": "Steve Smith", "id": "smith_s", "role": "batsman"},
+                {"name": "Glenn Maxwell", "id": "maxwell_g", "role": "allrounder"},
+                {"name": "Marcus Stoinis", "id": "stoinis_m", "role": "allrounder"},
+                {"name": "Pat Cummins", "id": "cummins_p", "role": "captain/bowler"},
+                {"name": "Mitchell Starc", "id": "starc_m", "role": "bowler"},
+                {"name": "Josh Hazlewood", "id": "hazlewood_j", "role": "bowler"},
+                {"name": "Adam Zampa", "id": "zampa_a", "role": "bowler"},
+                {"name": "Josh Inglis", "id": "inglis_j", "role": "wicketkeeper"},
+                {"name": "Travis Head", "id": "head_t", "role": "batsman"}
+            ]
+        },
+        "team2": {
+            "name": "England",
+            "captain": "Jos Buttler",
+            "wicketkeeper": "Jos Buttler",
+            "players": [
+                {"name": "Jason Roy", "id": "roy_j", "role": "opener"},
+                {"name": "Jos Buttler", "id": "buttler_j", "role": "captain/wicketkeeper"},
+                {"name": "Joe Root", "id": "root_j", "role": "batsman"},
+                {"name": "Harry Brook", "id": "brook_h", "role": "batsman"},
+                {"name": "Moeen Ali", "id": "ali_m", "role": "allrounder"},
+                {"name": "Liam Livingstone", "id": "livingstone_l", "role": "allrounder"},
+                {"name": "Sam Curran", "id": "curran_s", "role": "allrounder"},
+                {"name": "Chris Woakes", "id": "woakes_c", "role": "allrounder"},
+                {"name": "Jofra Archer", "id": "archer_j", "role": "bowler"},
+                {"name": "Adil Rashid", "id": "rashid_a", "role": "bowler"},
+                {"name": "Mark Wood", "id": "wood_m", "role": "bowler"}
+            ]
+        }
+    },
+    "umpires": [
+        {"name": "Paul Reiffel", "role": "on-field"},
+        {"name": "Rod Tucker", "role": "on-field"},
+        {"name": "Marais Erasmus", "role": "third"}
+    ],
+    "match_referee": "Andy Pycroft",
+    "innings": [
+        {
+            "number": 1,
+            "batting_team": "Australia",
+            "bowling_team": "England",
+            "total_runs": 185,
+            "total_wickets": 6,
+            "total_overs": 20,
+            "target": 186,
+            "extras": 12,
+            "boundaries": {"fours": 18, "sixes": 8}
+        },
+        {
+            "number": 2,
+            "batting_team": "England",
+            "bowling_team": "Australia",
+            "total_runs": 78,
+            "total_wickets": 1,
+            "total_overs": 5,
+            "target": 186,
+            "note": "Partial innings data - feeds contain 8+ overs of detailed event data"
+        }
+    ],
+    "result": {
+        "status": "simulated_partial",
+        "note": "Australia leading after 5 overs of England chase. Full match simulation available in feeds.",
+        "projected_winner": "Australia",
+        "projected_margin": "108 runs"
+    },
+    "player_of_match": "Glenn Maxwell",
+    "top_scorers": [
+        {"player": "Glenn Maxwell", "team": "Australia", "runs": 45, "balls": 28, "strike_rate": 160.7},
+        {"player": "Steve Smith", "team": "Australia", "runs": 38, "balls": 35, "strike_rate": 108.6},
+        {"player": "David Warner", "team": "Australia", "runs": 28, "balls": 26, "strike_rate": 107.7}
+    ],
+    "top_wicket_takers": [
+        {"player": "Sam Curran", "team": "England", "wickets": 2, "runs": 48, "economy": 8.0},
+        {"player": "Jofra Archer", "team": "England", "wickets": 1, "runs": 35, "economy": 7.0},
+        {"player": "Adil Rashid", "team": "England", "wickets": 1, "runs": 25, "economy": 6.25}
+    ],
+    "match_highlights": {
+        "highest_partnership": {"runs": 65, "players": ["Steve Smith", "Glenn Maxwell"], "team": "Australia"},
+        "most_boundaries_in_over": 3,
+        "powerplay_runs": 45,
+        "death_overs_runs": 52
+    },
+    "data_format_version": "2.0",
+    "data_source": "hackathon_feeds_cricket_data",
+    "feed_files_available": [
+        "physics-feed.json",
+        "bowler-stats-feed.json",
+        "fielder-feed.json",
+        "commentary-feed.json",
+        "wicket-feed.json",
+        "umpire-decisions-feed.json",
+        "crowd-reactions-feed.json",
+        "match-statistics-feed.json",
+        "player-biometric-feed.json",
+        "equipment-sensor-feed.json"
+    ],
+    "total_feed_events": 85551,
+    "expanded_feeds": ["physics", "bowler_stats", "commentary"],
+    "ball_coverage": {
+        "australia_innings_balls": 129,
+        "england_innings_balls": 30,
+        "total_balls": 159,
+        "events_per_ball": "average 538 events per ball"
+    }
+}

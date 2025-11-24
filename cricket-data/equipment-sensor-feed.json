@@ -1,0 +1,260 @@
+[
+    {
+        "event_id": "EQUIPMENT_BALL_1_CRICKET_BALL",
+        "event_type": "equipment_sensor",
+        "sub_type": "cricket_ball_sensors",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 1,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:11:08.500Z",
+        "ball_id": "BALL_001",
+        "ball_condition": {
+            "wear_percentage": 2.1,
+            "seam_height_mm": 1.85,
+            "roughness_coefficient": 0.15,
+            "moisture_content": 0.08,
+            "temperature_c": 18.5,
+            "pressure_psi": 9.2
+        },
+        "ball_trajectory_sensors": {
+            "accelerometer_data": [
+                {"time_ms": 0, "x_g": 0.0, "y_g": 0.0, "z_g": 0.0},
+                {"time_ms": 100, "x_g": 2.1, "y_g": -1.8, "z_g": 8.5},
+                {"time_ms": 200, "x_g": 3.8, "y_g": -2.2, "z_g": 12.1}
+            ],
+            "gyroscope_data": [
+                {"time_ms": 0, "x_dps": 0.0, "y_dps": 0.0, "z_dps": 0.0},
+                {"time_ms": 100, "x_dps": 1850, "y_dps": -450, "z_dps": 280},
+                {"time_ms": 200, "x_dps": 1650, "y_dps": -380, "z_dps": 195}
+            ],
+            "magnetometer_data": {
+                "field_strength_ut": 48500,
+                "deviation_angle": 2.1
+            }
+        }
+    },
+    {
+        "event_id": "EQUIPMENT_BALL_1_BAT_SENSORS",
+        "event_type": "equipment_sensor",
+        "sub_type": "bat_sensors",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 1,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:11:10.150Z",
+        "player_id": "warner_d",
+        "bat_id": "BAT_WARNER_001",
+        "bat_sensors": {
+            "impact_sensors": {
+                "sweet_spot_impact": true,
+                "impact_force_n": 2850,
+                "impact_duration_ms": 8.5,
+                "vibration_frequency_hz": 1250,
+                "bat_flex_degrees": 2.8
+            },
+            "motion_sensors": {
+                "swing_speed_kmh": 118.5,
+                "bat_angle_degrees": 42.3,
+                "follow_through_angle": 35.8,
+                "wrist_action": 0.75
+            },
+            "condition_sensors": {
+                "moisture_content": 0.12,
+                "temperature_c": 28.5,
+                "wear_pattern": "even_wear",
+                "grip_pressure_kpa": 45.2
+            }
+        }
+    },
+    {
+        "event_id": "EQUIPMENT_BALL_21_WICKET_SENSORS",
+        "event_type": "equipment_sensor",
+        "sub_type": "wicket_sensors",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 4,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:13:06.900Z",
+        "wicket_sensors": {
+            "stump_sensors": {
+                "middle_stump": {
+                    "impact_force_n": 1250,
+                    "displacement_mm": 45.2,
+                    "vibration_duration_ms": 250,
+                    "bail_displacement_mm": 320
+                },
+                "off_stump": {"impact_force_n": 0, "displacement_mm": 0},
+                "leg_stump": {"impact_force_n": 0, "displacement_mm": 0}
+            },
+            "pitch_sensors": {
+                "bounce_height_mm": 85,
+                "pitch_hardness": 0.78,
+                "grass_coverage": 0.25,
+                "moisture_content": 0.18
+            }
+        }
+    },
+    {
+        "event_id": "EQUIPMENT_BALL_37_CATCH_SENSORS",
+        "event_type": "equipment_sensor",
+        "sub_type": "fielding_equipment",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 6,
+        "ball_number": 4,
+        "timestamp": "2025-11-24T19:14:39.400Z",
+        "player_id": "buttler_j",
+        "glove_id": "GLOVE_BUTTLER_001",
+        "catch_sensors": {
+            "glove_sensors": {
+                "impact_force_n": 850,
+                "contact_area_cm2": 45.2,
+                "compression_mm": 12.5,
+                "temperature_change_c": 2.1,
+                "moisture_transfer": 0.15
+            },
+            "ball_control": {
+                "catch_stability_score": 8.7,
+                "transfer_time_ms": 95,
+                "squeeze_pressure_kpa": 38.5,
+                "release_control": 0.92
+            }
+        }
+    },
+    {
+        "event_id": "EQUIPMENT_BALL_51_LBW_SENSORS",
+        "event_type": "equipment_sensor",
+        "sub_type": "lbw_technology",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 8,
+        "ball_number": 5,
+        "timestamp": "2025-11-24T19:16:05.200Z",
+        "lbw_sensors": {
+            "ball_tracker": {
+                "trajectory_confidence": 0.98,
+                "impact_prediction": {"x": 5.7, "y": 0.0, "z": 0.4},
+                "wicket_line_distance_mm": 2.1,
+                "umpires_call_distance_mm": 8.5
+            },
+            "ultra_edge": {
+                "bat_ball_contact": false,
+                "nearest_distance_mm": 45.2,
+                "sound_analysis": "no_nick_detected",
+                "confidence_level": 0.95
+            },
+            "hot_spot": {
+                "thermal_signature": "no_contact",
+                "temperature_differential_c": 0.0,
+                "friction_mark_detected": false
+            }
+        }
+    },
+    {
+        "event_id": "EQUIPMENT_BALL_14_BOUNDARY_SENSORS",
+        "event_type": "equipment_sensor",
+        "sub_type": "boundary_sensors",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 3,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:12:15.300Z",
+        "boundary_sensors": {
+            "ball_speed_at_boundary_kmh": 142.5,
+            "ball_height_at_boundary_m": 2.8,
+            "carry_distance_m": 92.3,
+            "landing_zone": {"x": 68.5, "y": 0.0, "z": 0.0},
+            "bounce_count": 0,
+            "boundary_type": "six",
+            "crowd_interaction": {
+                "ball_touched_by_spectator": false,
+                "near_miss_distance_m": 1.2
+            }
+        }
+    },
+    {
+        "event_id": "EQUIPMENT_BALL_80_RUN_OUT_SENSORS",
+        "event_type": "equipment_sensor",
+        "sub_type": "run_out_technology",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 13,
+        "ball_number": 2,
+        "timestamp": "2025-11-24T19:19:15.400Z",
+        "run_out_sensors": {
+            "crease_sensors": {
+                "striker_crease": {
+                    "ball_impact_time": "2025-11-24T19:19:15.350Z",
+                    "wicket_breaking_time": "2025-11-24T19:19:15.450Z",
+                    "breaking_force_n": 1850,
+                    "bail_flight_pattern": "high_arc"
+                }
+            },
+            "third_umpire_review": {
+                "slow_motion_frames": 120,
+                "decision_time_seconds": 15.2,
+                "technology_used": ["ultra_edge", "ball_tracker"],
+                "decision_confidence": 0.92
+            }
+        }
+    },
+    {
+        "event_id": "EQUIPMENT_MATCH_PITCH_SENSORS",
+        "event_type": "equipment_sensor",
+        "sub_type": "pitch_condition",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 10,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:17:00.000Z",
+        "pitch_sensors": {
+            "surface_analysis": {
+                "hardness_shore": 78.5,
+                "grass_height_mm": 8.2,
+                "moisture_profile": [
+                    {"depth_mm": 0, "moisture_percent": 12.5},
+                    {"depth_mm": 50, "moisture_percent": 18.2},
+                    {"depth_mm": 100, "moisture_percent": 22.8}
+                ],
+                "wear_pattern": "even_wear",
+                "bounce_consistency": 0.85
+            },
+            "weather_sensors": {
+                "temperature_c": 22.5,
+                "humidity_percent": 45.2,
+                "wind_speed_kmh": 8.5,
+                "wind_direction_degrees": 185,
+                "barometric_pressure_hpa": 1012.5
+            }
+        }
+    },
+    {
+        "event_id": "EQUIPMENT_BATSMAN_EQUIPMENT_CHECK",
+        "event_type": "equipment_sensor",
+        "sub_type": "batsman_equipment",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 1,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:11:00.000Z",
+        "player_id": "warner_d",
+        "equipment_check": {
+            "helmet_sensors": {
+                "fit_compliance": 0.95,
+                "impact_absorption": 0.88,
+                "visor_position": "optimal"
+            },
+            "pad_sensors": {
+                "left_pad_pressure_kpa": 12.5,
+                "right_pad_pressure_kpa": 11.8,
+                "thigh_pad_alignment": 0.92
+            },
+            "glove_sensors": {
+                "grip_quality": 0.89,
+                "finger_flexibility": 0.94,
+                "palm_pressure_distribution": "even"
+            }
+        }
+    }
+]

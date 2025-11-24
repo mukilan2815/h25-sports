@@ -1,0 +1,5162 @@
+[
+  {
+    "event_id": "COMMENTARY_BALL_1_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 1,
+    "timestamp": "2025-11-24T19:11:00Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Jofra Archer, dug out by David Warner.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_1_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 1,
+    "timestamp": "2025-11-24T19:11:02Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Excellent defensive shot from David Warner, played back to the bowler.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_2_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 2,
+    "timestamp": "2025-11-24T19:11:35Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Jofra Archer, climbing on David Warner.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_2_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 2,
+    "timestamp": "2025-11-24T19:11:37Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_3_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 3,
+    "timestamp": "2025-11-24T19:12:10Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Jofra Archer delivers a good length ball outside off stump.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_3_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 3,
+    "timestamp": "2025-11-24T19:12:12Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! David Warner clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_4_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 4,
+    "timestamp": "2025-11-24T19:12:45Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Jofra Archer, climbing on David Warner.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_4_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 4,
+    "timestamp": "2025-11-24T19:12:47Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_5_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 5,
+    "timestamp": "2025-11-24T19:13:20Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Jofra Archer delivers a good length ball outside off stump.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_5_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 5,
+    "timestamp": "2025-11-24T19:13:22Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from David Warner, played back to the bowler.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_6_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 6,
+    "timestamp": "2025-11-24T19:13:55Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Jofra Archer, climbing on David Warner.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_6_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 1,
+    "ball_number": 6,
+    "timestamp": "2025-11-24T19:13:57Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Edged and taken! David Warner departs for 36.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_7_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 7,
+    "timestamp": "2025-11-24T19:14:30Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Jofra Archer delivers a good length ball outside off stump.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_7_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 7,
+    "timestamp": "2025-11-24T19:14:32Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_8_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 8,
+    "timestamp": "2025-11-24T19:15:05Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Jofra Archer, swinging into the batsman.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_8_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 8,
+    "timestamp": "2025-11-24T19:15:07Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Edged and taken! David Warner departs for 39.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_9_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 9,
+    "timestamp": "2025-11-24T19:15:40Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Jofra Archer delivers a good length ball outside off stump.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_9_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 9,
+    "timestamp": "2025-11-24T19:15:42Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! David Warner clears the boundary with ease.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_10_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 10,
+    "timestamp": "2025-11-24T19:16:15Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Jofra Archer, dug out by David Warner.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_10_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 10,
+    "timestamp": "2025-11-24T19:16:17Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from David Warner, no need to run for that.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_11_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 11,
+    "timestamp": "2025-11-24T19:16:50Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Jofra Archer, dug out by David Warner.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_11_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 11,
+    "timestamp": "2025-11-24T19:16:52Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! David Warner clears the boundary with ease.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_12_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 12,
+    "timestamp": "2025-11-24T19:17:25Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Jofra Archer delivers a good length ball outside off stump.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_12_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 2,
+    "ball_number": 12,
+    "timestamp": "2025-11-24T19:17:27Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Edged and taken! David Warner departs for 33.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_13_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 13,
+    "timestamp": "2025-11-24T19:18:00Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Jofra Archer, dug out by David Warner.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_13_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 13,
+    "timestamp": "2025-11-24T19:18:02Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from David Warner, played back to the bowler.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_14_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 14,
+    "timestamp": "2025-11-24T19:18:35Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Leg side delivery from Jofra Archer, worked to square leg.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_14_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 14,
+    "timestamp": "2025-11-24T19:18:37Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from David Warner, played back to the bowler.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_15_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 15,
+    "timestamp": "2025-11-24T19:19:10Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Jofra Archer.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_15_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 15,
+    "timestamp": "2025-11-24T19:19:12Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from David Warner, played back to the bowler.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_16_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 16,
+    "timestamp": "2025-11-24T19:19:45Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Jofra Archer, swinging into the batsman.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_16_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 16,
+    "timestamp": "2025-11-24T19:19:47Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from David Warner, no need to run for that.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_17_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 17,
+    "timestamp": "2025-11-24T19:20:20Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Jofra Archer, swinging into the batsman.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_17_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 17,
+    "timestamp": "2025-11-24T19:20:22Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from David Warner, played back to the bowler.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_18_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 18,
+    "timestamp": "2025-11-24T19:20:55Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Jofra Archer delivers a good length ball outside off stump.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_18_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 3,
+    "ball_number": 18,
+    "timestamp": "2025-11-24T19:20:57Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_19_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 19,
+    "timestamp": "2025-11-24T19:21:30Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Jofra Archer, dug out by David Warner.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_19_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 19,
+    "timestamp": "2025-11-24T19:21:32Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from David Warner, no need to run for that.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_20_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 20,
+    "timestamp": "2025-11-24T19:22:05Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Jofra Archer, swinging into the batsman.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_20_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 20,
+    "timestamp": "2025-11-24T19:22:07Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! David Warner departs for 50.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_21_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 21,
+    "timestamp": "2025-11-24T19:22:40Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Jofra Archer, dug out by Aaron Finch.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_21_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 21,
+    "timestamp": "2025-11-24T19:22:42Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_22_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 22,
+    "timestamp": "2025-11-24T19:23:15Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Leg side delivery from Jofra Archer, worked to square leg.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_22_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 22,
+    "timestamp": "2025-11-24T19:23:17Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from Aaron Finch, no need to run for that.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_23_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 23,
+    "timestamp": "2025-11-24T19:23:50Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Jofra Archer delivers a good length ball outside off stump.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_23_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 23,
+    "timestamp": "2025-11-24T19:23:52Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Aaron Finch clears the boundary with ease.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_24_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 24,
+    "timestamp": "2025-11-24T19:24:25Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Jofra Archer delivers a good length ball outside off stump.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_24_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 4,
+    "ball_number": 24,
+    "timestamp": "2025-11-24T19:24:27Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Aaron Finch clears the boundary with ease.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_25_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 25,
+    "timestamp": "2025-11-24T19:25:00Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Chris Woakes, climbing on Aaron Finch.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_25_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 25,
+    "timestamp": "2025-11-24T19:25:02Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_26_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 26,
+    "timestamp": "2025-11-24T19:25:35Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Chris Woakes, swinging into the batsman.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_26_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 26,
+    "timestamp": "2025-11-24T19:25:37Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Aaron Finch, no need to run for that.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_27_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 27,
+    "timestamp": "2025-11-24T19:26:10Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Chris Woakes delivers a good length ball outside off stump.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_27_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 27,
+    "timestamp": "2025-11-24T19:26:12Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Aaron Finch clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_28_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 28,
+    "timestamp": "2025-11-24T19:26:45Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Chris Woakes.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_28_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 28,
+    "timestamp": "2025-11-24T19:26:47Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from Aaron Finch, no need to run for that.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_29_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 29,
+    "timestamp": "2025-11-24T19:27:20Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Chris Woakes.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_29_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 29,
+    "timestamp": "2025-11-24T19:27:22Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Aaron Finch clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_30_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 30,
+    "timestamp": "2025-11-24T19:27:55Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Chris Woakes.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_30_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 5,
+    "ball_number": 30,
+    "timestamp": "2025-11-24T19:27:57Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Aaron Finch departs for 14.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_31_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 31,
+    "timestamp": "2025-11-24T19:28:30Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Chris Woakes.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_31_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 31,
+    "timestamp": "2025-11-24T19:28:32Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from Aaron Finch, played back to the bowler.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_32_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 32,
+    "timestamp": "2025-11-24T19:29:05Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Chris Woakes, dug out by Aaron Finch.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_32_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 32,
+    "timestamp": "2025-11-24T19:29:07Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_33_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 33,
+    "timestamp": "2025-11-24T19:29:40Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Chris Woakes, swinging into the batsman.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_33_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 33,
+    "timestamp": "2025-11-24T19:29:42Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_34_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 34,
+    "timestamp": "2025-11-24T19:30:15Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Chris Woakes, climbing on Aaron Finch.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_34_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 34,
+    "timestamp": "2025-11-24T19:30:17Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_35_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 35,
+    "timestamp": "2025-11-24T19:30:50Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Chris Woakes, climbing on Aaron Finch.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_35_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 35,
+    "timestamp": "2025-11-24T19:30:52Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Aaron Finch departs for 44.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_36_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 36,
+    "timestamp": "2025-11-24T19:31:25Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Chris Woakes, dug out by Aaron Finch.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_36_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 6,
+    "ball_number": 36,
+    "timestamp": "2025-11-24T19:31:27Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from Aaron Finch, played back to the bowler.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_37_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 37,
+    "timestamp": "2025-11-24T19:32:00Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Chris Woakes delivers a good length ball outside off stump.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_37_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 37,
+    "timestamp": "2025-11-24T19:32:02Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Aaron Finch departs for 49.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_38_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 38,
+    "timestamp": "2025-11-24T19:32:35Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Chris Woakes, dug out by Aaron Finch.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_38_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 38,
+    "timestamp": "2025-11-24T19:32:37Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_39_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 39,
+    "timestamp": "2025-11-24T19:33:10Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Chris Woakes, climbing on Aaron Finch.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_39_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 39,
+    "timestamp": "2025-11-24T19:33:12Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_40_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 40,
+    "timestamp": "2025-11-24T19:33:45Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Chris Woakes, dug out by Aaron Finch.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_40_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 40,
+    "timestamp": "2025-11-24T19:33:47Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Excellent defensive shot from Aaron Finch, played back to the bowler.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_41_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 41,
+    "timestamp": "2025-11-24T19:34:20Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Chris Woakes delivers a good length ball outside off stump.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_41_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 41,
+    "timestamp": "2025-11-24T19:34:22Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Steve Smith clears the boundary with ease.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_42_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 42,
+    "timestamp": "2025-11-24T19:34:55Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Chris Woakes, dug out by Steve Smith.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_42_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 7,
+    "ball_number": 42,
+    "timestamp": "2025-11-24T19:34:57Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from Steve Smith, no need to run for that.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_43_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 43,
+    "timestamp": "2025-11-24T19:35:30Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Chris Woakes, dug out by Steve Smith.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_43_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 43,
+    "timestamp": "2025-11-24T19:35:32Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Steve Smith departs for 27.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_44_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 44,
+    "timestamp": "2025-11-24T19:36:05Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Chris Woakes delivers a good length ball outside off stump.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_44_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 44,
+    "timestamp": "2025-11-24T19:36:07Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Steve Smith departs for 38.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_45_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 45,
+    "timestamp": "2025-11-24T19:36:40Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Chris Woakes, climbing on Steve Smith.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_45_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 45,
+    "timestamp": "2025-11-24T19:36:42Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_46_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 46,
+    "timestamp": "2025-11-24T19:37:15Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Chris Woakes.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_46_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 46,
+    "timestamp": "2025-11-24T19:37:17Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Steve Smith clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_47_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 47,
+    "timestamp": "2025-11-24T19:37:50Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Chris Woakes, dug out by Steve Smith.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_47_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 47,
+    "timestamp": "2025-11-24T19:37:52Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_48_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 48,
+    "timestamp": "2025-11-24T19:38:25Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Chris Woakes, swinging into the batsman.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_48_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 8,
+    "ball_number": 48,
+    "timestamp": "2025-11-24T19:38:27Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Excellent defensive shot from Steve Smith, played back to the bowler.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_49_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 49,
+    "timestamp": "2025-11-24T19:39:00Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Sam Curran.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_49_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 49,
+    "timestamp": "2025-11-24T19:39:02Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Steve Smith clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_50_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 50,
+    "timestamp": "2025-11-24T19:39:35Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Sam Curran, swinging into the batsman.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_50_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 50,
+    "timestamp": "2025-11-24T19:39:37Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_51_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 51,
+    "timestamp": "2025-11-24T19:40:10Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Sam Curran delivers a good length ball outside off stump.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_51_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 51,
+    "timestamp": "2025-11-24T19:40:12Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Steve Smith departs for 29.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_52_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 52,
+    "timestamp": "2025-11-24T19:40:45Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Leg side delivery from Sam Curran, worked to square leg.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_52_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 52,
+    "timestamp": "2025-11-24T19:40:47Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from Steve Smith, played back to the bowler.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_53_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 53,
+    "timestamp": "2025-11-24T19:41:20Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Leg side delivery from Sam Curran, worked to square leg.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_53_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 53,
+    "timestamp": "2025-11-24T19:41:22Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_54_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 54,
+    "timestamp": "2025-11-24T19:41:55Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Leg side delivery from Sam Curran, worked to square leg.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_54_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 9,
+    "ball_number": 54,
+    "timestamp": "2025-11-24T19:41:57Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Steve Smith clears the boundary with ease.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_55_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 55,
+    "timestamp": "2025-11-24T19:42:30Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Sam Curran.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_55_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 55,
+    "timestamp": "2025-11-24T19:42:32Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from Steve Smith, no need to run for that.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_56_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 56,
+    "timestamp": "2025-11-24T19:43:05Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Sam Curran, swinging into the batsman.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_56_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 56,
+    "timestamp": "2025-11-24T19:43:07Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from Steve Smith, played back to the bowler.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_57_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 57,
+    "timestamp": "2025-11-24T19:43:40Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Sam Curran.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_57_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 57,
+    "timestamp": "2025-11-24T19:43:42Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from Steve Smith, no need to run for that.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_58_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 58,
+    "timestamp": "2025-11-24T19:44:15Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Sam Curran delivers a good length ball outside off stump.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_58_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 58,
+    "timestamp": "2025-11-24T19:44:17Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_59_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 59,
+    "timestamp": "2025-11-24T19:44:50Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Sam Curran, dug out by Steve Smith.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_59_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 59,
+    "timestamp": "2025-11-24T19:44:52Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_60_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 60,
+    "timestamp": "2025-11-24T19:45:25Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Sam Curran.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_60_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 10,
+    "ball_number": 60,
+    "timestamp": "2025-11-24T19:45:27Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Steve Smith clears the boundary with ease.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_61_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 61,
+    "timestamp": "2025-11-24T19:46:00Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Sam Curran, climbing on Glenn Maxwell.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_61_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 61,
+    "timestamp": "2025-11-24T19:46:02Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_62_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 62,
+    "timestamp": "2025-11-24T19:46:35Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Sam Curran, swinging into the batsman.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_62_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 62,
+    "timestamp": "2025-11-24T19:46:37Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Glenn Maxwell clears the boundary with ease.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_63_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 63,
+    "timestamp": "2025-11-24T19:47:10Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Sam Curran, swinging into the batsman.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_63_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 63,
+    "timestamp": "2025-11-24T19:47:12Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Glenn Maxwell clears the boundary with ease.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_64_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 64,
+    "timestamp": "2025-11-24T19:47:45Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Sam Curran, dug out by Glenn Maxwell.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_64_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 64,
+    "timestamp": "2025-11-24T19:47:47Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from Glenn Maxwell, no need to run for that.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_65_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 65,
+    "timestamp": "2025-11-24T19:48:20Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Leg side delivery from Sam Curran, worked to square leg.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_65_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 65,
+    "timestamp": "2025-11-24T19:48:22Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Glenn Maxwell clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_66_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 66,
+    "timestamp": "2025-11-24T19:48:55Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Sam Curran, climbing on Glenn Maxwell.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_66_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 11,
+    "ball_number": 66,
+    "timestamp": "2025-11-24T19:48:57Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Glenn Maxwell, no need to run for that.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_67_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 67,
+    "timestamp": "2025-11-24T19:49:30Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Sam Curran.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_67_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 67,
+    "timestamp": "2025-11-24T19:49:32Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Glenn Maxwell, no need to run for that.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_68_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 68,
+    "timestamp": "2025-11-24T19:50:05Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Leg side delivery from Sam Curran, worked to square leg.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_68_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 68,
+    "timestamp": "2025-11-24T19:50:07Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Glenn Maxwell, no need to run for that.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_69_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 69,
+    "timestamp": "2025-11-24T19:50:40Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Sam Curran, climbing on Glenn Maxwell.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_69_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 69,
+    "timestamp": "2025-11-24T19:50:42Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_70_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 70,
+    "timestamp": "2025-11-24T19:51:15Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Sam Curran, dug out by Glenn Maxwell.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_70_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 70,
+    "timestamp": "2025-11-24T19:51:17Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_71_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 71,
+    "timestamp": "2025-11-24T19:51:50Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Sam Curran, swinging into the batsman.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_71_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 71,
+    "timestamp": "2025-11-24T19:51:52Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_72_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 72,
+    "timestamp": "2025-11-24T19:52:25Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Sam Curran, climbing on Glenn Maxwell.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_72_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 12,
+    "ball_number": 72,
+    "timestamp": "2025-11-24T19:52:27Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Glenn Maxwell, no need to run for that.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_73_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 73,
+    "timestamp": "2025-11-24T19:53:00Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Adil Rashid, dug out by Glenn Maxwell.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_73_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 73,
+    "timestamp": "2025-11-24T19:53:02Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Glenn Maxwell clears the boundary with ease.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_74_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 74,
+    "timestamp": "2025-11-24T19:53:35Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Adil Rashid delivers a good length ball outside off stump.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_74_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 74,
+    "timestamp": "2025-11-24T19:53:37Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from Glenn Maxwell, no need to run for that.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_75_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 75,
+    "timestamp": "2025-11-24T19:54:10Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Adil Rashid.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_75_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 75,
+    "timestamp": "2025-11-24T19:54:12Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_76_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 76,
+    "timestamp": "2025-11-24T19:54:45Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Adil Rashid delivers a good length ball outside off stump.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_76_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 76,
+    "timestamp": "2025-11-24T19:54:47Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Glenn Maxwell, no need to run for that.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_77_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 77,
+    "timestamp": "2025-11-24T19:55:20Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Adil Rashid, climbing on Glenn Maxwell.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_77_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 77,
+    "timestamp": "2025-11-24T19:55:22Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Glenn Maxwell clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_78_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 78,
+    "timestamp": "2025-11-24T19:55:55Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Adil Rashid, dug out by Glenn Maxwell.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_78_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 13,
+    "ball_number": 78,
+    "timestamp": "2025-11-24T19:55:57Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Glenn Maxwell, no need to run for that.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_79_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 79,
+    "timestamp": "2025-11-24T19:56:30Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Adil Rashid, swinging into the batsman.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_79_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 79,
+    "timestamp": "2025-11-24T19:56:32Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Glenn Maxwell clears the boundary with ease.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_80_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 80,
+    "timestamp": "2025-11-24T19:57:05Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Adil Rashid.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_80_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 80,
+    "timestamp": "2025-11-24T19:57:07Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Glenn Maxwell, no need to run for that.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_81_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 81,
+    "timestamp": "2025-11-24T19:57:40Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Adil Rashid, swinging into the batsman.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_81_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 81,
+    "timestamp": "2025-11-24T19:57:42Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Marcus Stoinis clears the boundary with ease.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_82_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 82,
+    "timestamp": "2025-11-24T19:58:15Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Adil Rashid.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_82_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 82,
+    "timestamp": "2025-11-24T19:58:17Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Marcus Stoinis clears the boundary with ease.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_83_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 83,
+    "timestamp": "2025-11-24T19:58:50Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Adil Rashid delivers a good length ball outside off stump.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_83_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 83,
+    "timestamp": "2025-11-24T19:58:52Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Excellent defensive shot from Marcus Stoinis, played back to the bowler.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_84_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 84,
+    "timestamp": "2025-11-24T19:59:25Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Adil Rashid.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_84_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 14,
+    "ball_number": 84,
+    "timestamp": "2025-11-24T19:59:27Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Marcus Stoinis, no need to run for that.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_85_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 85,
+    "timestamp": "2025-11-24T20:00:00Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Adil Rashid, dug out by Marcus Stoinis.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_85_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 85,
+    "timestamp": "2025-11-24T20:00:02Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Marcus Stoinis, no need to run for that.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_86_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 86,
+    "timestamp": "2025-11-24T20:00:35Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Adil Rashid.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_86_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 86,
+    "timestamp": "2025-11-24T20:00:37Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_87_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 87,
+    "timestamp": "2025-11-24T20:01:10Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Adil Rashid, climbing on Marcus Stoinis.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_87_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 87,
+    "timestamp": "2025-11-24T20:01:12Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Excellent defensive shot from Marcus Stoinis, played back to the bowler.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_88_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 88,
+    "timestamp": "2025-11-24T20:01:45Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Adil Rashid, climbing on Marcus Stoinis.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_88_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 88,
+    "timestamp": "2025-11-24T20:01:47Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Marcus Stoinis departs for 49.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_89_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 89,
+    "timestamp": "2025-11-24T20:02:20Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Adil Rashid delivers a good length ball outside off stump.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_89_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 89,
+    "timestamp": "2025-11-24T20:02:22Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_90_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 90,
+    "timestamp": "2025-11-24T20:02:55Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Adil Rashid.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_90_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 15,
+    "ball_number": 90,
+    "timestamp": "2025-11-24T20:02:57Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Marcus Stoinis clears the boundary with ease.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_91_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 91,
+    "timestamp": "2025-11-24T20:03:30Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Leg side delivery from Adil Rashid, worked to square leg.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_91_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 91,
+    "timestamp": "2025-11-24T20:03:32Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from Marcus Stoinis, no need to run for that.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_92_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 92,
+    "timestamp": "2025-11-24T20:04:05Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Adil Rashid.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_92_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 92,
+    "timestamp": "2025-11-24T20:04:07Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_93_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 93,
+    "timestamp": "2025-11-24T20:04:40Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Adil Rashid, climbing on Marcus Stoinis.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_93_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 93,
+    "timestamp": "2025-11-24T20:04:42Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Edged and taken! Marcus Stoinis departs for 14.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_94_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 94,
+    "timestamp": "2025-11-24T20:05:15Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Adil Rashid, dug out by Marcus Stoinis.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_94_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 94,
+    "timestamp": "2025-11-24T20:05:17Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_95_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 95,
+    "timestamp": "2025-11-24T20:05:50Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Adil Rashid, climbing on Marcus Stoinis.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_95_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 95,
+    "timestamp": "2025-11-24T20:05:52Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Marcus Stoinis clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_96_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 96,
+    "timestamp": "2025-11-24T20:06:25Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Adil Rashid, swinging into the batsman.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_96_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 16,
+    "ball_number": 96,
+    "timestamp": "2025-11-24T20:06:27Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_97_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 97,
+    "timestamp": "2025-11-24T20:07:00Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Liam Livingstone, swinging into the batsman.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_97_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 97,
+    "timestamp": "2025-11-24T20:07:02Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Marcus Stoinis, no need to run for that.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_98_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 98,
+    "timestamp": "2025-11-24T20:07:35Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Liam Livingstone, swinging into the batsman.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_98_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 98,
+    "timestamp": "2025-11-24T20:07:37Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Marcus Stoinis departs for 15.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_99_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 99,
+    "timestamp": "2025-11-24T20:08:10Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Leg side delivery from Liam Livingstone, worked to square leg.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_99_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 99,
+    "timestamp": "2025-11-24T20:08:12Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from Marcus Stoinis, played back to the bowler.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_100_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 100,
+    "timestamp": "2025-11-24T20:08:45Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Liam Livingstone delivers a good length ball outside off stump.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_100_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 100,
+    "timestamp": "2025-11-24T20:08:47Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Marcus Stoinis departs for 26.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_101_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 101,
+    "timestamp": "2025-11-24T20:09:20Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Liam Livingstone.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_101_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 101,
+    "timestamp": "2025-11-24T20:09:22Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Pat Cummins clears the boundary with ease.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_102_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 102,
+    "timestamp": "2025-11-24T20:09:55Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Liam Livingstone.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_102_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 17,
+    "ball_number": 102,
+    "timestamp": "2025-11-24T20:09:57Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Pat Cummins clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_103_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 103,
+    "timestamp": "2025-11-24T20:10:30Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Liam Livingstone, climbing on Pat Cummins.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_103_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 103,
+    "timestamp": "2025-11-24T20:10:32Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Edged and taken! Pat Cummins departs for 34.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_104_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 104,
+    "timestamp": "2025-11-24T20:11:05Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Liam Livingstone, swinging into the batsman.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_104_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 104,
+    "timestamp": "2025-11-24T20:11:07Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_105_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 105,
+    "timestamp": "2025-11-24T20:11:40Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Liam Livingstone, swinging into the batsman.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_105_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 105,
+    "timestamp": "2025-11-24T20:11:42Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_106_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 106,
+    "timestamp": "2025-11-24T20:12:15Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Liam Livingstone, swinging into the batsman.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_106_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 106,
+    "timestamp": "2025-11-24T20:12:17Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_107_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 107,
+    "timestamp": "2025-11-24T20:12:50Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Liam Livingstone.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_107_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 107,
+    "timestamp": "2025-11-24T20:12:52Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Edged and taken! Pat Cummins departs for 48.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_108_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 108,
+    "timestamp": "2025-11-24T20:13:25Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Liam Livingstone, dug out by Pat Cummins.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_108_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 18,
+    "ball_number": 108,
+    "timestamp": "2025-11-24T20:13:27Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_109_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 109,
+    "timestamp": "2025-11-24T20:14:00Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Liam Livingstone.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_109_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 109,
+    "timestamp": "2025-11-24T20:14:02Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from Pat Cummins, played back to the bowler.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_110_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 110,
+    "timestamp": "2025-11-24T20:14:35Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Liam Livingstone, swinging into the batsman.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_110_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 110,
+    "timestamp": "2025-11-24T20:14:37Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from Pat Cummins, played back to the bowler.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_111_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 111,
+    "timestamp": "2025-11-24T20:15:10Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Full delivery from Liam Livingstone, swinging into the batsman.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_111_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 111,
+    "timestamp": "2025-11-24T20:15:12Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Four! Beautiful cover drive from Pat Cummins, no need to run for that.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_112_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 112,
+    "timestamp": "2025-11-24T20:15:45Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Leg side delivery from Liam Livingstone, worked to square leg.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_112_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 112,
+    "timestamp": "2025-11-24T20:15:47Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_113_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 113,
+    "timestamp": "2025-11-24T20:16:20Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Liam Livingstone, dug out by Pat Cummins.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_113_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 113,
+    "timestamp": "2025-11-24T20:16:22Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Pat Cummins clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_114_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 114,
+    "timestamp": "2025-11-24T20:16:55Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Liam Livingstone.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_114_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 19,
+    "ball_number": 114,
+    "timestamp": "2025-11-24T20:16:57Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Excellent defensive shot from Pat Cummins, played back to the bowler.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_115_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 115,
+    "timestamp": "2025-11-24T20:17:30Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Liam Livingstone.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_115_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 115,
+    "timestamp": "2025-11-24T20:17:32Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Excellent defensive shot from Pat Cummins, played back to the bowler.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_116_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 116,
+    "timestamp": "2025-11-24T20:18:05Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Yorker attempt from Liam Livingstone, dug out by Pat Cummins.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_116_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 116,
+    "timestamp": "2025-11-24T20:18:07Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Pat Cummins clears the boundary with ease.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_117_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 117,
+    "timestamp": "2025-11-24T20:18:40Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Short of a length from Liam Livingstone, climbing on Pat Cummins.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_117_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 117,
+    "timestamp": "2025-11-24T20:18:42Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Excellent defensive shot from Pat Cummins, played back to the bowler.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_118_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 118,
+    "timestamp": "2025-11-24T20:19:15Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Liam Livingstone.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_118_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 118,
+    "timestamp": "2025-11-24T20:19:17Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_119_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 119,
+    "timestamp": "2025-11-24T20:19:50Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Yorker attempt from Liam Livingstone, dug out by Pat Cummins.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_119_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 119,
+    "timestamp": "2025-11-24T20:19:52Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Pat Cummins clears the boundary with ease.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_120_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 120,
+    "timestamp": "2025-11-24T20:20:25Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Full delivery from Liam Livingstone, swinging into the batsman.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_120_RESULT",
+    "event_type": "commentary",
+    "sub_type": "shot_analysis",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 20,
+    "ball_number": 120,
+    "timestamp": "2025-11-24T20:20:27Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Excellent defensive shot from Pat Cummins, played back to the bowler.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_121_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 121,
+    "timestamp": "2025-11-24T20:21:00Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Mitchell Starc delivers a good length ball outside off stump.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_121_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 121,
+    "timestamp": "2025-11-24T20:21:02Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Six! Mitchell Starc clears the boundary with ease.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_122_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 122,
+    "timestamp": "2025-11-24T20:21:35Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Mitchell Starc.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_122_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 122,
+    "timestamp": "2025-11-24T20:21:37Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Four! Beautiful cover drive from Mitchell Starc, no need to run for that.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_123_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 123,
+    "timestamp": "2025-11-24T20:22:10Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Perfect line and length from Mitchell Starc.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_123_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 123,
+    "timestamp": "2025-11-24T20:22:12Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_124_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 124,
+    "timestamp": "2025-11-24T20:22:45Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Mitchell Starc.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_124_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 124,
+    "timestamp": "2025-11-24T20:22:47Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Edged and taken! Mitchell Starc departs for 42.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_125_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 125,
+    "timestamp": "2025-11-24T20:23:20Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Leg side delivery from Mitchell Starc, worked to square leg.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_125_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 125,
+    "timestamp": "2025-11-24T20:23:22Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Excellent defensive shot from Mitchell Starc, played back to the bowler.",
+    "tone": "impressed",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_126_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 126,
+    "timestamp": "2025-11-24T20:23:55Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Mitchell Starc, climbing on Mitchell Starc.",
+    "tone": "excited",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_126_RESULT",
+    "event_type": "commentary",
+    "sub_type": "fielding_comment",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 21,
+    "ball_number": 126,
+    "timestamp": "2025-11-24T20:23:57Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Single taken, good running between the wickets.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "shot_quality"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_127_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 22,
+    "ball_number": 127,
+    "timestamp": "2025-11-24T20:24:30Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Mitchell Starc delivers a good length ball outside off stump.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_127_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 22,
+    "ball_number": 127,
+    "timestamp": "2025-11-24T20:24:32Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Six! Mitchell Starc clears the boundary with ease.",
+    "tone": "excited",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_128_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 22,
+    "ball_number": 128,
+    "timestamp": "2025-11-24T20:25:05Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Perfect line and length from Mitchell Starc.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_128_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 22,
+    "ball_number": 128,
+    "timestamp": "2025-11-24T20:25:07Z",
+    "commentator_id": "isa_guha",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_129_DELIVERY",
+    "event_type": "commentary",
+    "sub_type": "ball_description",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 22,
+    "ball_number": 129,
+    "timestamp": "2025-11-24T20:25:40Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Short of a length from Mitchell Starc, climbing on Mitchell Starc.",
+    "tone": "neutral",
+    "emphasis_words": [
+      "good",
+      "perfect",
+      "climbing",
+      "swinging"
+    ],
+    "analysis_type": "technical"
+  },
+  {
+    "event_id": "COMMENTARY_BALL_129_RESULT",
+    "event_type": "commentary",
+    "sub_type": "bowler_feedback",
+    "match_id": "eng-aus-t20-2025-11-24",
+    "innings": 1,
+    "over_number": 22,
+    "ball_number": 129,
+    "timestamp": "2025-11-24T20:25:42Z",
+    "commentator_id": "michael_s",
+    "commentary_text": "Appeal for LBW! Turned down by the umpire.",
+    "tone": "analytical",
+    "emphasis_words": [
+      "excellent",
+      "beautiful",
+      "four",
+      "six"
+    ],
+    "analysis_type": "fielding"
+  }
+]

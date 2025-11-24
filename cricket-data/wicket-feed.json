@@ -1,0 +1,696 @@
+[
+    {
+        "event_id": "WICKET_BALL_21_SETUP",
+        "event_type": "wicket_detail",
+        "sub_type": "pre_wicket_situation",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 4,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:13:04.000Z",
+        "batsman_id": "finch_a",
+        "bowler_id": "rashid_a",
+        "wicket_sequence": 1,
+        "partnership_broken": {
+            "runs": 18,
+            "balls": 24,
+            "strike_rate": 75.0
+        },
+        "batsman_stats": {
+            "runs_scored": 8,
+            "balls_faced": 12,
+            "strike_rate": 66.7,
+            "dots_played": 5
+        },
+        "bowler_stats": {
+            "balls_bowled": 0,
+            "runs_conceded": 0,
+            "wickets_taken": 0
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_21_DELIVERY",
+        "event_type": "wicket_detail",
+        "sub_type": "delivery_analysis",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 4,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:13:05.500Z",
+        "bowler_id": "rashid_a",
+        "delivery_type": "leg_spin",
+        "line": "middle_stump",
+        "length": "full",
+        "turn_generated": 15.2,
+        "bounce_height": 0.12,
+        "speed_kmh": 85.3,
+        "wicket_probability": 0.65
+    },
+    {
+        "event_id": "WICKET_BALL_21_BALL_TRAVEL",
+        "event_type": "wicket_detail",
+        "sub_type": "ball_trajectory",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 4,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:13:06.200Z",
+        "trajectory_analysis": {
+            "release_point": {"x": 0.0, "y": 1.85, "z": -0.5},
+            "bounce_point": {"x": 5.8, "y": 0.0, "z": 0.8},
+            "stump_line": {"x": 6.0, "y": 0.0, "z": 0.0},
+            "turn_angle_degrees": 12.5,
+            "drift_distance": 0.8
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_21_BATSman_RESPONSE",
+        "event_type": "wicket_detail",
+        "sub_type": "batsman_reaction",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 4,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:13:06.800Z",
+        "batsman_id": "finch_a",
+        "shot_attempted": "defensive_block",
+        "bat_swing_angle": 15.3,
+        "bat_speed_kmh": 85.2,
+        "contact_point": {"x": 5.9, "y": 0.75, "z": 0.6},
+        "error_type": "inside_edge",
+        "reaction_time_ms": 320
+    },
+    {
+        "event_id": "WICKET_BALL_21_DISMISSAL",
+        "event_type": "wicket_detail",
+        "sub_type": "dismissal_mechanism",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 4,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:13:07.200Z",
+        "dismissal_type": "bowled",
+        "wickets_remaining": 9,
+        "dismissal_details": {
+            "stump_hit": "middle_stump",
+            "ball_speed_at_impact": 78.5,
+            "stump_displacement": 0.45,
+            "bail_flight_distance": 3.2
+        },
+        "umpire_decision": {
+            "decision": "out",
+            "confidence": 1.0,
+            "time_taken_ms": 850
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_37_SETUP",
+        "event_type": "wicket_detail",
+        "sub_type": "pre_wicket_situation",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 6,
+        "ball_number": 4,
+        "timestamp": "2025-11-24T19:14:36.000Z",
+        "batsman_id": "warner_d",
+        "bowler_id": "woakes_c",
+        "wicket_sequence": 2,
+        "partnership_broken": {
+            "runs": 25,
+            "balls": 32,
+            "strike_rate": 78.1
+        },
+        "batsman_stats": {
+            "runs_scored": 28,
+            "balls_faced": 26,
+            "strike_rate": 107.7,
+            "dots_played": 8
+        },
+        "bowler_stats": {
+            "balls_bowled": 11,
+            "runs_conceded": 18,
+            "wickets_taken": 0
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_37_DELIVERY",
+        "event_type": "wicket_detail",
+        "sub_type": "delivery_analysis",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 6,
+        "ball_number": 4,
+        "timestamp": "2025-11-24T19:14:37.500Z",
+        "bowler_id": "woakes_c",
+        "delivery_type": "outswing",
+        "line": "off_stump",
+        "length": "good_length",
+        "turn_generated": 8.5,
+        "bounce_height": 0.16,
+        "speed_kmh": 128.7,
+        "wicket_probability": 0.35
+    },
+    {
+        "event_id": "WICKET_BALL_37_BALL_TRAVEL",
+        "event_type": "wicket_detail",
+        "sub_type": "ball_trajectory",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 6,
+        "ball_number": 4,
+        "timestamp": "2025-11-24T19:14:38.200Z",
+        "trajectory_analysis": {
+            "release_point": {"x": 0.0, "y": 1.92, "z": 0.2},
+            "bounce_point": {"x": 5.3, "y": 0.0, "z": 0.8},
+            "stump_line": {"x": 6.0, "y": 0.0, "z": 0.0},
+            "swing_angle_degrees": 6.2,
+            "carry_height_m": 0.8
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_37_BATSman_RESPONSE",
+        "event_type": "wicket_detail",
+        "sub_type": "batsman_reaction",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 6,
+        "ball_number": 4,
+        "timestamp": "2025-11-24T19:14:38.800Z",
+        "batsman_id": "warner_d",
+        "shot_attempted": "cover_drive",
+        "bat_swing_angle": 42.8,
+        "bat_speed_kmh": 118.5,
+        "contact_point": {"x": 5.4, "y": 0.82, "z": 0.7},
+        "error_type": "thin_edge",
+        "reaction_time_ms": 285
+    },
+    {
+        "event_id": "WICKET_BALL_37_FIELDER_INTERCEPT",
+        "event_type": "wicket_detail",
+        "sub_type": "fielder_intervention",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 6,
+        "ball_number": 4,
+        "timestamp": "2025-11-24T19:14:39.200Z",
+        "fielder_id": "buttler_j",
+        "intercept_position": {"x": 3.2, "y": -2.1, "z": 1.2},
+        "dive_angle_degrees": 18.5,
+        "reach_extension_m": 1.8,
+        "catch_height_m": 1.1,
+        "hands_position": "right_hand_dominant"
+    },
+    {
+        "event_id": "WICKET_BALL_37_DISMISSAL",
+        "event_type": "wicket_detail",
+        "sub_type": "dismissal_mechanism",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 6,
+        "ball_number": 4,
+        "timestamp": "2025-11-24T19:14:39.600Z",
+        "dismissal_type": "caught",
+        "wickets_remaining": 8,
+        "dismissal_details": {
+            "catcher_id": "buttler_j",
+            "catch_position": "low_to_ground",
+            "ball_speed_at_catch": 65.3,
+            "catch_stability_score": 8.7
+        },
+        "umpire_decision": {
+            "decision": "out",
+            "confidence": 1.0,
+            "time_taken_ms": 920
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_51_SETUP",
+        "event_type": "wicket_detail",
+        "sub_type": "pre_wicket_situation",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 8,
+        "ball_number": 5,
+        "timestamp": "2025-11-24T19:16:02.000Z",
+        "batsman_id": "maxwell_g",
+        "bowler_id": "curran_s",
+        "wicket_sequence": 3,
+        "partnership_broken": {
+            "runs": 15,
+            "balls": 16,
+            "strike_rate": 93.8
+        },
+        "batsman_stats": {
+            "runs_scored": 12,
+            "balls_faced": 8,
+            "strike_rate": 150.0,
+            "dots_played": 2
+        },
+        "bowler_stats": {
+            "balls_bowled": 17,
+            "runs_conceded": 28,
+            "wickets_taken": 0
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_51_DELIVERY",
+        "event_type": "wicket_detail",
+        "sub_type": "delivery_analysis",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 8,
+        "ball_number": 5,
+        "timestamp": "2025-11-24T19:16:03.500Z",
+        "bowler_id": "curran_s",
+        "delivery_type": "leg_cutter",
+        "line": "middle_stump",
+        "length": "good_length",
+        "turn_generated": -5.2,
+        "bounce_height": 0.14,
+        "speed_kmh": 132.4,
+        "wicket_probability": 0.42
+    },
+    {
+        "event_id": "WICKET_BALL_51_BALL_TRAVEL",
+        "event_type": "wicket_detail",
+        "sub_type": "ball_trajectory",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 8,
+        "ball_number": 5,
+        "timestamp": "2025-11-24T19:16:04.200Z",
+        "trajectory_analysis": {
+            "release_point": {"x": 0.0, "y": 1.88, "z": -0.3},
+            "bounce_point": {"x": 5.6, "y": 0.0, "z": 0.5},
+            "stump_line": {"x": 6.0, "y": 0.0, "z": 0.0},
+            "movement_angle_degrees": -4.8,
+            "pitch_carry": 0.9
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_51_BATSman_RESPONSE",
+        "event_type": "wicket_detail",
+        "sub_type": "batsman_reaction",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 8,
+        "ball_number": 5,
+        "timestamp": "2025-11-24T19:16:04.800Z",
+        "batsman_id": "maxwell_g",
+        "shot_attempted": "flick_to_leg",
+        "bat_swing_angle": -28.5,
+        "bat_speed_kmh": 105.8,
+        "contact_point": {"x": 5.7, "y": 0.68, "z": 0.4},
+        "error_type": "pad_first",
+        "reaction_time_ms": 265
+    },
+    {
+        "event_id": "WICKET_BALL_51_UMPIRE_REVIEW",
+        "event_type": "wicket_detail",
+        "sub_type": "umpire_review",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 8,
+        "ball_number": 5,
+        "timestamp": "2025-11-24T19:16:05.500Z",
+        "review_requested_by": "bowler",
+        "review_type": "lbw",
+        "technology_used": ["ultra_edge", "ball_tracker"],
+        "review_decision": "out",
+        "review_time_seconds": 28,
+        "confidence_level": 0.89
+    },
+    {
+        "event_id": "WICKET_BALL_51_DISMISSAL",
+        "event_type": "wicket_detail",
+        "sub_type": "dismissal_mechanism",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 8,
+        "ball_number": 5,
+        "timestamp": "2025-11-24T19:16:06.200Z",
+        "dismissal_type": "lbw",
+        "wickets_remaining": 7,
+        "dismissal_details": {
+            "impact_height_m": 0.25,
+            "wicket_line_distance": 0.02,
+            "umpire_original_decision": "out",
+            "review_confirmed": true
+        },
+        "umpire_decision": {
+            "decision": "out",
+            "confidence": 0.95,
+            "time_taken_ms": 28500
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_73_SETUP",
+        "event_type": "wicket_detail",
+        "sub_type": "pre_wicket_situation",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 12,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:18:22.000Z",
+        "batsman_id": "stoinis_m",
+        "bowler_id": "archer_j",
+        "wicket_sequence": 4,
+        "partnership_broken": {
+            "runs": 22,
+            "balls": 28,
+            "strike_rate": 78.6
+        },
+        "batsman_stats": {
+            "runs_scored": 18,
+            "balls_faced": 20,
+            "strike_rate": 90.0,
+            "dots_played": 6
+        },
+        "bowler_stats": {
+            "balls_bowled": 23,
+            "runs_conceded": 35,
+            "wickets_taken": 1
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_73_DELIVERY",
+        "event_type": "wicket_detail",
+        "sub_type": "delivery_analysis",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 12,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:18:23.500Z",
+        "bowler_id": "archer_j",
+        "delivery_type": "yorker",
+        "line": "off_stump",
+        "length": "full",
+        "turn_generated": 2.1,
+        "bounce_height": 0.08,
+        "speed_kmh": 152.8,
+        "wicket_probability": 0.55
+    },
+    {
+        "event_id": "WICKET_BALL_73_BALL_TRAVEL",
+        "event_type": "wicket_detail",
+        "sub_type": "ball_trajectory",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 12,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:18:24.200Z",
+        "trajectory_analysis": {
+            "release_point": {"x": 0.0, "y": 2.2, "z": 0.0},
+            "bounce_point": {"x": 5.9, "y": 0.0, "z": 0.2},
+            "stump_line": {"x": 6.0, "y": 0.0, "z": 0.0},
+            "low_trajectory": true,
+            "yorker_effectiveness": 0.85
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_73_BATSman_RESPONSE",
+        "event_type": "wicket_detail",
+        "sub_type": "batsman_reaction",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 12,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:18:24.800Z",
+        "batsman_id": "stoinis_m",
+        "shot_attempted": "dig_out",
+        "bat_swing_angle": 35.2,
+        "bat_speed_kmh": 95.8,
+        "contact_point": {"x": 5.8, "y": 0.45, "z": 0.1},
+        "error_type": "missed_ball",
+        "reaction_time_ms": 195
+    },
+    {
+        "event_id": "WICKET_BALL_73_FIELDER_INTERCEPT",
+        "event_type": "fielder_detail",
+        "sub_type": "fielder_intervention",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 12,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:18:25.200Z",
+        "fielder_id": "roy_j",
+        "intercept_position": {"x": 14.5, "y": 6.8, "z": 1.5},
+        "dive_angle_degrees": 32.5,
+        "reach_extension_m": 2.2,
+        "catch_height_m": 1.3,
+        "hands_position": "both_hands"
+    },
+    {
+        "event_id": "WICKET_BALL_73_DISMISSAL",
+        "event_type": "wicket_detail",
+        "sub_type": "dismissal_mechanism",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 12,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:18:25.600Z",
+        "dismissal_type": "caught",
+        "wickets_remaining": 6,
+        "dismissal_details": {
+            "catcher_id": "roy_j",
+            "catch_position": "high_catch",
+            "ball_speed_at_catch": 58.9,
+            "catch_stability_score": 9.1
+        },
+        "umpire_decision": {
+            "decision": "out",
+            "confidence": 1.0,
+            "time_taken_ms": 780
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_80_SETUP",
+        "event_type": "wicket_detail",
+        "sub_type": "pre_wicket_situation",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 13,
+        "ball_number": 2,
+        "timestamp": "2025-11-24T19:19:12.000Z",
+        "batsman_id": "smith_s",
+        "bowler_id": "curran_s",
+        "wicket_sequence": 5,
+        "partnership_broken": {
+            "runs": 15,
+            "balls": 18,
+            "strike_rate": 83.3
+        },
+        "batsman_stats": {
+            "runs_scored": 35,
+            "balls_faced": 38,
+            "strike_rate": 92.1,
+            "dots_played": 12
+        },
+        "bowler_stats": {
+            "balls_bowled": 29,
+            "runs_conceded": 42,
+            "wickets_taken": 1
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_80_DELIVERY",
+        "event_type": "wicket_detail",
+        "sub_type": "delivery_analysis",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 13,
+        "ball_number": 2,
+        "timestamp": "2025-11-24T19:19:13.500Z",
+        "bowler_id": "curran_s",
+        "delivery_type": "slower_ball",
+        "line": "off_stump",
+        "length": "full",
+        "turn_generated": 1.8,
+        "bounce_height": 0.11,
+        "speed_kmh": 115.6,
+        "wicket_probability": 0.48
+    },
+    {
+        "event_id": "WICKET_BALL_80_BALL_TRAVEL",
+        "event_type": "wicket_detail",
+        "sub_type": "ball_trajectory",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 13,
+        "ball_number": 2,
+        "timestamp": "2025-11-24T19:19:14.200Z",
+        "trajectory_analysis": {
+            "release_point": {"x": 0.0, "y": 1.82, "z": 0.1},
+            "bounce_point": {"x": 5.4, "y": 0.0, "z": 0.6},
+            "stump_line": {"x": 6.0, "y": 0.0, "z": 0.0},
+            "deception_factor": 0.75,
+            "speed_differential": 18.5
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_80_BATSman_RESPONSE",
+        "event_type": "wicket_detail",
+        "sub_type": "batsman_reaction",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 13,
+        "ball_number": 2,
+        "timestamp": "2025-11-24T19:19:14.800Z",
+        "batsman_id": "smith_s",
+        "shot_attempted": "cover_drive",
+        "bat_swing_angle": 45.8,
+        "bat_speed_kmh": 125.2,
+        "contact_point": {"x": 5.5, "y": 0.78, "z": 0.5},
+        "error_type": "early_shot",
+        "reaction_time_ms": 275
+    },
+    {
+        "event_id": "WICKET_BALL_80_RUN_OUT_SEQUENCE",
+        "event_type": "wicket_detail",
+        "sub_type": "run_out_mechanism",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 13,
+        "ball_number": 2,
+        "timestamp": "2025-11-24T19:19:15.200Z",
+        "batsman_id": "smith_s",
+        "fielder_id": "buttler_j",
+        "run_out_sequence": [
+            {"event": "ball_hit", "time_ms": 0, "position": {"x": 5.5, "y": 0.78, "z": 0.5}},
+            {"event": "batsman_start_run", "time_ms": 150, "position": {"x": 6.2, "y": 0.8, "z": 0.0}},
+            {"event": "fielder_pickup", "time_ms": 450, "position": {"x": 1.2, "y": -2.0, "z": 0.0}},
+            {"event": "throw_start", "time_ms": 650, "position": {"x": 1.2, "y": -2.0, "z": 0.0}},
+            {"event": "throw_impact", "time_ms": 950, "position": {"x": 6.8, "y": 0.0, "z": 0.0}},
+            {"event": "wicket_breaking", "time_ms": 1050, "position": {"x": 6.0, "y": 0.0, "z": 0.0}}
+        ],
+        "throw_accuracy_m": 0.15,
+        "batsman_running_speed_kmh": 22.5
+    },
+    {
+        "event_id": "WICKET_BALL_80_DISMISSAL",
+        "event_type": "wicket_detail",
+        "sub_type": "dismissal_mechanism",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 13,
+        "ball_number": 2,
+        "timestamp": "2025-11-24T19:19:15.600Z",
+        "dismissal_type": "run_out",
+        "wickets_remaining": 5,
+        "dismissal_details": {
+            "fielder_id": "buttler_j",
+            "direct_hit": true,
+            "wicket_breaking_speed_kmh": 15.8,
+            "batsman_distance_from_crease": 0.3
+        },
+        "umpire_decision": {
+            "decision": "out",
+            "confidence": 0.98,
+            "time_taken_ms": 1250
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_112_SETUP",
+        "event_type": "wicket_detail",
+        "sub_type": "pre_wicket_situation",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 18,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:22:08.000Z",
+        "batsman_id": "cummins_p",
+        "bowler_id": "curran_s",
+        "wicket_sequence": 6,
+        "partnership_broken": {
+            "runs": 8,
+            "balls": 12,
+            "strike_rate": 66.7
+        },
+        "batsman_stats": {
+            "runs_scored": 5,
+            "balls_faced": 8,
+            "strike_rate": 62.5,
+            "dots_played": 4
+        },
+        "bowler_stats": {
+            "balls_bowled": 35,
+            "runs_conceded": 48,
+            "wickets_taken": 2
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_112_DELIVERY",
+        "event_type": "wicket_detail",
+        "sub_type": "delivery_analysis",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 18,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:22:09.500Z",
+        "bowler_id": "curran_s",
+        "delivery_type": "inswing_yorker",
+        "line": "middle_stump",
+        "length": "yorker",
+        "turn_generated": 8.9,
+        "bounce_height": 0.06,
+        "speed_kmh": 138.2,
+        "wicket_probability": 0.62
+    },
+    {
+        "event_id": "WICKET_BALL_112_BALL_TRAVEL",
+        "event_type": "wicket_detail",
+        "sub_type": "ball_trajectory",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 18,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:22:10.200Z",
+        "trajectory_analysis": {
+            "release_point": {"x": 0.0, "y": 1.95, "z": -0.4},
+            "bounce_point": {"x": 5.95, "y": 0.0, "z": 0.1},
+            "stump_line": {"x": 6.0, "y": 0.0, "z": 0.0},
+            "late_swing_degrees": 4.2,
+            "yorker_perfection": 0.92
+        }
+    },
+    {
+        "event_id": "WICKET_BALL_112_BATSman_RESPONSE",
+        "event_type": "wicket_detail",
+        "sub_type": "batsman_reaction",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 18,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:22:10.800Z",
+        "batsman_id": "cummins_p",
+        "shot_attempted": "defensive_yorker",
+        "bat_swing_angle": 25.8,
+        "bat_speed_kmh": 78.5,
+        "contact_point": {"x": 5.9, "y": 0.32, "z": 0.05},
+        "error_type": "too_late",
+        "reaction_time_ms": 185
+    },
+    {
+        "event_id": "WICKET_BALL_112_DISMISSAL",
+        "event_type": "wicket_detail",
+        "sub_type": "dismissal_mechanism",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 18,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:22:11.200Z",
+        "dismissal_type": "bowled",
+        "wickets_remaining": 4,
+        "dismissal_details": {
+            "stump_hit": "off_stump",
+            "ball_speed_at_impact": 85.3,
+            "stump_displacement": 0.38,
+            "bail_flight_distance": 2.8
+        },
+        "umpire_decision": {
+            "decision": "out",
+            "confidence": 1.0,
+            "time_taken_ms": 720
+        }
+    }
+]

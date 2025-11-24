@@ -1,0 +1,306 @@
+[
+    {
+        "event_id": "STATS_BALL_6_UPDATE",
+        "event_type": "match_statistics",
+        "sub_type": "over_completion",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 1,
+        "ball_number": 6,
+        "timestamp": "2025-11-24T19:11:36.000Z",
+        "team_stats": {
+            "australia": {
+                "runs": 9,
+                "wickets": 0,
+                "overs": 1.0,
+                "run_rate": 9.0,
+                "required_run_rate": null
+            },
+            "england": {
+                "runs": 0,
+                "wickets": 0,
+                "overs": 0.0,
+                "run_rate": 0.0,
+                "required_run_rate": null
+            }
+        },
+        "batsman_stats": {
+            "warner_d": {"runs": 5, "balls": 2, "strike_rate": 250.0, "fours": 1, "sixes": 0},
+            "finch_a": {"runs": 4, "balls": 4, "strike_rate": 100.0, "fours": 1, "sixes": 0}
+        },
+        "bowler_stats": {
+            "archer_j": {"overs": 1.0, "maidens": 0, "runs": 9, "wickets": 0, "economy": 9.0, "dots": 2}
+        },
+        "partnership_stats": {
+            "current": {"runs": 9, "balls": 6, "run_rate": 9.0},
+            "best_opening": {"runs": 9, "balls": 6}
+        },
+        "match_situation": {
+            "phase": "powerplay",
+            "pressure_index": 0.2,
+            "momentum_team": "australia",
+            "run_rate_trend": "increasing"
+        }
+    },
+    {
+        "event_id": "STATS_BALL_13_UPDATE",
+        "event_type": "match_statistics",
+        "sub_type": "over_completion",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 2,
+        "ball_number": 6,
+        "timestamp": "2025-11-24T19:12:05.000Z",
+        "team_stats": {
+            "australia": {
+                "runs": 18,
+                "wickets": 0,
+                "overs": 2.0,
+                "run_rate": 9.0,
+                "required_run_rate": null
+            },
+            "england": {
+                "runs": 0,
+                "wickets": 0,
+                "overs": 0.0,
+                "run_rate": 0.0,
+                "required_run_rate": null
+            }
+        },
+        "batsman_stats": {
+            "warner_d": {"runs": 9, "balls": 5, "strike_rate": 180.0, "fours": 2, "sixes": 0},
+            "finch_a": {"runs": 9, "balls": 7, "strike_rate": 128.6, "fours": 1, "sixes": 0}
+        },
+        "bowler_stats": {
+            "woakes_c": {"overs": 1.0, "maidens": 0, "runs": 9, "wickets": 0, "economy": 9.0, "dots": 1},
+            "archer_j": {"overs": 1.0, "maidens": 0, "runs": 9, "wickets": 0, "economy": 9.0, "dots": 2}
+        },
+        "partnership_stats": {
+            "current": {"runs": 18, "balls": 12, "run_rate": 9.0},
+            "best_opening": {"runs": 18, "balls": 12}
+        },
+        "match_situation": {
+            "phase": "powerplay",
+            "pressure_index": 0.1,
+            "momentum_team": "australia",
+            "run_rate_trend": "stable"
+        }
+    },
+    {
+        "event_id": "STATS_WICKET_21_UPDATE",
+        "event_type": "match_statistics",
+        "sub_type": "wicket_fall",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 4,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:13:08.000Z",
+        "team_stats": {
+            "australia": {
+                "runs": 33,
+                "wickets": 1,
+                "overs": 3.5,
+                "run_rate": 8.6,
+                "required_run_rate": null
+            },
+            "england": {
+                "runs": 0,
+                "wickets": 0,
+                "overs": 0.0,
+                "run_rate": 0.0,
+                "required_run_rate": null
+            }
+        },
+        "batsman_stats": {
+            "warner_d": {"runs": 15, "balls": 12, "strike_rate": 125.0, "fours": 2, "sixes": 0},
+            "smith_s": {"runs": 1, "balls": 1, "strike_rate": 100.0, "fours": 0, "sixes": 0},
+            "finch_a": {"runs": 8, "balls": 12, "strike_rate": 66.7, "fours": 1, "sixes": 0, "out": true}
+        },
+        "bowler_stats": {
+            "rashid_a": {"overs": 0.1, "maidens": 0, "runs": 0, "wickets": 1, "economy": 0.0, "dots": 1},
+            "woakes_c": {"overs": 1.0, "maidens": 0, "runs": 9, "wickets": 0, "economy": 9.0, "dots": 1},
+            "archer_j": {"overs": 1.0, "maidens": 0, "runs": 9, "wickets": 0, "economy": 9.0, "dots": 2},
+            "curran_s": {"overs": 1.0, "maidens": 0, "runs": 15, "wickets": 0, "economy": 15.0, "dots": 2}
+        },
+        "partnership_stats": {
+            "current": {"runs": 2, "balls": 2, "run_rate": 6.0},
+            "fallen": [
+                {"runs": 18, "balls": 24, "players": ["finch_a", "warner_d"]}
+            ]
+        },
+        "match_situation": {
+            "phase": "middle_overs",
+            "pressure_index": 0.4,
+            "momentum_team": "england",
+            "run_rate_trend": "decreasing"
+        }
+    },
+    {
+        "event_id": "STATS_BOUNDARY_14_UPDATE",
+        "event_type": "match_statistics",
+        "sub_type": "boundary_scored",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 3,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:12:15.500Z",
+        "boundary_type": "six",
+        "boundary_stats": {
+            "total_boundaries": 3,
+            "fours": 2,
+            "sixes": 1,
+            "boundary_percentage": 21.4,
+            "longest_six_m": 95,
+            "fastest_boundary_kmh": 156.2
+        },
+        "batsman_milestone": {
+            "warner_d": {"runs": 15, "balls": 8, "strike_rate": 187.5}
+        },
+        "team_stats_update": {
+            "australia": {"runs": 19, "wickets": 0}
+        }
+    },
+    {
+        "event_id": "STATS_OVER_5_UPDATE",
+        "event_type": "match_statistics",
+        "sub_type": "bowling_spell",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 5,
+        "ball_number": 6,
+        "timestamp": "2025-11-24T19:13:45.000Z",
+        "bowling_spell_stats": {
+            "rashid_a": {
+                "spell_overs": 1.0,
+                "spell_runs": 10,
+                "spell_wickets": 1,
+                "spell_economy": 10.0,
+                "spell_strike_rate": 6.0,
+                "fatigue_impact": 0.15
+            }
+        },
+        "bowling_figures": {
+            "most_economical": {"bowler": "rashid_a", "economy": 10.0},
+            "most_wickets": {"bowler": "rashid_a", "wickets": 1}
+        },
+        "fielding_stats": {
+            "catches_taken": 1,
+            "run_outs_attempted": 0,
+            "dropped_catches": 0,
+            "fielding_efficiency": 0.95
+        }
+    },
+    {
+        "event_id": "STATS_INNINGS_1_COMPLETE",
+        "event_type": "match_statistics",
+        "sub_type": "innings_summary",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 1,
+        "over_number": 20,
+        "ball_number": 6,
+        "timestamp": "2025-11-24T19:23:56.000Z",
+        "final_team_stats": {
+            "australia": {
+                "runs": 185,
+                "wickets": 6,
+                "overs": 20.0,
+                "run_rate": 9.25,
+                "extras": 12,
+                "boundaries": {"fours": 18, "sixes": 8}
+            },
+            "england": {
+                "runs": 0,
+                "wickets": 0,
+                "overs": 0.0,
+                "required_run_rate": 9.26
+            }
+        },
+        "top_scorers": [
+            {"player": "maxwell_g", "runs": 45, "balls": 28, "strike_rate": 160.7},
+            {"player": "smith_s", "runs": 38, "balls": 35, "strike_rate": 108.6},
+            {"player": "warner_d", "runs": 28, "balls": 26, "strike_rate": 107.7}
+        ],
+        "top_wicket_takers": [
+            {"player": "curran_s", "wickets": 2, "runs": 48, "economy": 8.0},
+            {"player": "archer_j", "wickets": 1, "runs": 35, "economy": 7.0},
+            {"player": "rashid_a", "wickets": 1, "runs": 25, "economy": 6.25}
+        ],
+        "match_highlights": {
+            "highest_partnership": {"runs": 65, "players": ["smith_s", "maxwell_g"]},
+            "fastest_fifty": null,
+            "most_boundaries_in_over": 3,
+            "powerplay_runs": 45,
+            "death_overs_runs": 52
+        }
+    },
+    {
+        "event_id": "STATS_INNINGS_2_BALL_10_UPDATE",
+        "event_type": "match_statistics",
+        "sub_type": "chase_progress",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 2,
+        "over_number": 2,
+        "ball_number": 4,
+        "timestamp": "2025-11-24T19:40:45.000Z",
+        "chase_stats": {
+            "target": 186,
+            "current_score": 25,
+            "runs_needed": 161,
+            "balls_remaining": 106,
+            "required_run_rate": 9.11,
+            "current_run_rate": 12.5,
+            "projected_score": 178,
+            "win_probability": {
+                "england": 0.35,
+                "australia": 0.65
+            }
+        },
+        "batsman_stats": {
+            "roy_j": {"runs": 14, "balls": 8, "strike_rate": 175.0, "fours": 2, "sixes": 1},
+            "buttler_j": {"runs": 11, "balls": 8, "strike_rate": 137.5, "fours": 2, "sixes": 0}
+        }
+    },
+    {
+        "event_id": "STATS_WICKET_143_UPDATE",
+        "event_type": "match_statistics",
+        "sub_type": "wicket_impact",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 2,
+        "over_number": 3,
+        "ball_number": 1,
+        "timestamp": "2025-11-24T19:41:38.000Z",
+        "wicket_impact": {
+            "wickets_in_hand": 9,
+            "runs_needed": 161,
+            "balls_remaining": 102,
+            "required_run_rate": 9.47,
+            "pressure_increase": 0.25,
+            "momentum_shift": "england_to_australia",
+            "set_batsman_lost": true
+        },
+        "bowler_impact": {
+            "hazlewood_j": {"spell_wickets": 1, "spell_runs": 8, "confidence_boost": 0.3}
+        }
+    },
+    {
+        "event_id": "STATS_MILESTONE_150_UPDATE",
+        "event_type": "match_statistics",
+        "sub_type": "team_milestone",
+        "match_id": "eng-aus-t20-2025-11-24",
+        "innings": 2,
+        "over_number": 5,
+        "ball_number": 4,
+        "timestamp": "2025-11-24T19:43:10.000Z",
+        "milestone_achieved": {
+            "type": "fifty_partnership",
+            "players": ["buttler_j", "root_j"],
+            "runs": 50,
+            "balls": 28,
+            "run_rate": 10.7,
+            "fastest_fifty": false
+        },
+        "team_stats_update": {
+            "england": {"runs": 78, "wickets": 1, "run_rate": 11.1}
+        }
+    }
+]
