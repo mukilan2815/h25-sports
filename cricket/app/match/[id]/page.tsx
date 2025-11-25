@@ -34,7 +34,7 @@ export default function MatchDetails() {
           apiClient.getEquipmentSensor()
         ]);
         
-        setMatch(matchData.metadata);
+        setMatch((matchData as any).metadata);
         setStats(statsData as any);
         setPhysics(physicsData as any);
         setFielders(fieldersData as any);

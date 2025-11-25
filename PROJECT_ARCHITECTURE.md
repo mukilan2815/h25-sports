@@ -64,6 +64,12 @@ graph TD
 
 ## Frontend Architecture (`cricket`)
 
+### Layout & Navigation
+*   **Global Layout**: A consistent "dashboard-style" layout is applied across all main pages (`/`, `/dashboard`, `/matches`, `/teams`, `/news`, `/match/[id]`).
+*   **Sidebar**: Persistent left navigation with links to Home, Dashboard, Matches, Teams, and News.
+*   **RightSidebar**: Persistent right sidebar displaying the Points Table and Top Scorer (Orange Cap).
+*   **Responsive Design**: Sticky headers and scrollable content areas ensure a premium user experience on all devices.
+
 ### Pages
 1.  **Home (`/`)**:
     *   **Live Score**: Real-time match updates (Runs, Wickets, Overs).
@@ -75,15 +81,22 @@ graph TD
     *   **Sentiment Analysis**: Social media buzz, sentiment breakdown, trending hashtags.
 3.  **Matches (`/matches`)**:
     *   List of live, upcoming, and recent matches.
-4.  **Teams (`/teams`)**:
+    *   Consistent layout with Sidebar/RightSidebar.
+4.  **Match Details (`/match/[id]`)**:
+    *   **Detailed Scorecard**: Batting and Bowling tables with improved styling and responsiveness.
+    *   **Tabs**: Scorecard, Commentary, Analysis, Predictions, Advanced (Physics/Sensors).
+    *   **Sticky Header**: Match summary stays visible while scrolling.
+5.  **Teams (`/teams`)**:
     *   Team rosters, captain info.
     *   Player statistics and performance heatmaps.
-5.  **News (`/news`)**:
-    *   Latest news and social media trends.
+6.  **News (`/news`)**:
+    *   **News Feed**: Latest articles fetched from the backend.
+    *   **Categories**: Filter news by Match Report, Analysis, Features, etc.
+    *   **Sentiment Integration**: Displays trending hashtags and fan sentiment alongside news.
 
 ### Components
 -   **Sidebar/RightSidebar**: Navigation and quick stats (Points Table, Top Scorer).
--   **ApiClient (`lib/api-client.ts`)**: Centralized service for making HTTP requests to the backend.
+-   **ApiClient (`lib/api-client.ts`)**: Centralized service for making HTTP requests to the backend. Now includes `getNews()`.
 
 ## Key Features Implementation
 
@@ -92,7 +105,7 @@ graph TD
     *   **Frontend**: `Home` component polls `/api/data/match/live-summary` every 30s.
 
 2.  **AI Predictions**:
-    *   **Backend**: `AiService` constructs a prompt with current match stats and sends it to Gemini.
+    *   **Backend**: `AiService` constructs a prompt with current match stats and sends it to Gemini (Model: `gemini-2.0-flash`).
     *   **Frontend**: Displays win probability bars and key factors.
 
 3.  **Social Sentiment**:
@@ -102,6 +115,10 @@ graph TD
 4.  **Personalized Commentary**:
     *   **Backend**: `AiService` generates commentary based on user preferences (Hero/Music style).
     *   **Frontend**: Users can select styles to see custom commentary.
+
+5.  **News Aggregation**:
+    *   **Backend**: `DataService` loads `news-feed.json` and exposes it via `/api/data/news`.
+    *   **Frontend**: `NewsPage` fetches and displays articles with category filtering.
 
 ## Development Workflow
 1.  **Data**: Update JSON files in `cricket-data` to simulate different match scenarios.
