@@ -6,32 +6,50 @@ import { apiClient } from '../lib/api-client';
 
 import Sidebar from '../components/Sidebar';
 import RightSidebar from '../components/RightSidebar';
+import Link from 'next/link';
+import { ArrowLeft } from 'lucide-react';
 
 export default function NewsPage() {
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [sentimentData, setSentimentData] = useState<any>(null);
+  const [news, setNews] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
   const categories = ['all', 'match report', 'news', 'analysis', 'feature', 'fan engagement'];
 
   useEffect(() => {
-    async function loadSentiment() {
+    async function loadData() {
       try {
-        const data = await apiClient.getCurrentSentiment();
-        setSentimentData(data);
+        const [sentiment, newsData] = await Promise.all([
+          apiClient.getCurrentSentiment(),
+          apiClient.getNews()
+        ]);
+        setSentimentData(sentiment);
+        setNews(newsData as any);
       } catch (error) {
-        console.error('Error loading sentiment:', error);
+        console.error('Error loading news data:', error);
       } finally {
         setLoading(false);
       }
     }
-    loadSentiment();
+    loadData();
   }, []);
+
+  const filteredNews = selectedCategory === 'all' 
+    ? news 
+    : news.filter(item => item.category === selectedCategory);
 
   return (
     <div className="min-h-screen bg-[#0b1120] text-white font-sans flex overflow-hidden">
       <Sidebar />
       
       <main className="flex-1 ml-64 mr-80 p-8 h-screen overflow-y-auto">
+        {/* Header with Back Button */}
+        <div className="mb-6">
+          <Link href="/" className="inline-flex items-center text-slate-400 hover:text-white transition-colors mb-4">
+            <ArrowLeft className="w-4 h-4 mr-2" /> Back to Dashboard
+          </Link>
+        </div>
+
         {/* Hero Section */}
         <section className="relative bg-gradient-to-b from-slate-900 to-slate-950 py-12 px-4 sm:px-6 lg:px-8 rounded-2xl mb-8">
           <div className="max-w-7xl mx-auto">
@@ -61,13 +79,47 @@ export default function NewsPage() {
           </div>
         </section>
 
-        {/* News Content Placeholder */}
+        {/* News Content */}
         <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-8">
-          <div className="bg-slate-900 rounded-xl border border-slate-800 p-12 text-center">
-            <h2 className="text-2xl font-bold text-white mb-4">News Content</h2>
-            <p className="text-slate-400 text-lg mb-2">News articles would be fetched from backend API</p>
-            <p className="text-slate-500 text-sm">Backend needs to implement news/articles endpoint</p>
-          </div>
+          {loading ? (
+            <div className="text-center py-12 text-slate-400">Loading news...</div>
+          ) : filteredNews.length === 0 ? (
+            <div className="bg-slate-900 rounded-xl border border-slate-800 p-12 text-center">
+              <p className="text-slate-400 text-lg">No news available for this category.</p>
+            </div>
+          ) : (
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {filteredNews.map((item) => (
+                <div key={item.id} className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden hover:border-emerald-500/50 transition-colors group">
+                  <div className="h-48 bg-slate-800 relative">
+                    {/* Placeholder for image since we don't have real images */}
+                    <div className="absolute inset-0 flex items-center justify-center text-slate-600 bg-slate-800">
+                      <span className="text-4xl">📰</span>
+                    </div>
+                    <div className="absolute top-4 left-4 px-3 py-1 bg-emerald-500 text-white text-xs font-bold uppercase rounded-full">
+                      {item.category}
+                    </div>
+                  </div>
+                  <div className="p-6">
+                    <div className="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                      <span>{new Date(item.published_at).toLocaleDateString()}</span>
+                      <span>•</span>
+                      <span>{item.author}</span>
+                    </div>
+                    <h3 className="text-xl font-bold text-white mb-3 group-hover:text-emerald-400 transition-colors">
+                      {item.title}
+                    </h3>
+                    <p className="text-slate-400 text-sm mb-4 line-clamp-2">
+                      {item.summary}
+                    </p>
+                    <button className="text-emerald-400 text-sm font-medium hover:text-emerald-300 flex items-center gap-1">
+                      Read Article <Share2 className="w-3 h-3" />
+                    </button>
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
         </section>
 
         {/* Social Sentiment Section */}

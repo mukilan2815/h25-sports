@@ -63,7 +63,7 @@ export default function MatchDetails() {
       
       <main className="flex-1 ml-64 mr-80 p-8 h-screen overflow-y-auto">
         {/* Header */}
-        <div className="bg-slate-900 border-b border-slate-800 sticky top-0 z-40 -mx-8 px-8 pt-4 pb-0 mb-8">
+        <div className="bg-slate-900 border-b border-slate-800 sticky top-0 z-40 -mx-8 px-8 pt-4 pb-0 mb-8 shadow-lg">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center justify-between mb-4">
               <Link href="/" className="flex items-center text-slate-400 hover:text-white transition-colors">
@@ -120,7 +120,7 @@ export default function MatchDetails() {
         </div>
 
         {/* Content */}
-        <div className="max-w-7xl mx-auto pb-8">
+        <div className="max-w-7xl mx-auto pb-8 pt-4">
            {activeTab === 'scorecard' && <ScorecardView match={match} />}
            {activeTab === 'commentary' && <CommentaryView stats={stats} />}
            {activeTab === 'analysis' && <AnalysisView match={match} />}
@@ -144,67 +144,71 @@ function ScorecardView({ match }: { match: any }) {
    return (
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
          {/* Batting Card */}
-         <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden">
+         <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden shadow-lg">
             <div className="bg-slate-800/50 px-6 py-4 border-b border-slate-800 flex justify-between items-center">
                <h3 className="font-bold text-white">Batting</h3>
                <span className="text-xs text-slate-400">Australia (1st Innings)</span>
             </div>
-            <table className="w-full text-sm text-left">
-               <thead className="text-xs text-slate-500 bg-slate-800/30 uppercase">
-                  <tr>
-                     <th className="px-6 py-3">Batter</th>
-                     <th className="px-6 py-3 text-right">R</th>
-                     <th className="px-6 py-3 text-right">B</th>
-                     <th className="px-6 py-3 text-right">4s</th>
-                     <th className="px-6 py-3 text-right">6s</th>
-                     <th className="px-6 py-3 text-right">SR</th>
-                  </tr>
-               </thead>
-               <tbody className="divide-y divide-slate-800">
-                  {match.top_scorers.map((player: any, idx: number) => (
-                     <tr key={idx} className="hover:bg-slate-800/30 transition-colors">
-                        <td className="px-6 py-4 font-medium text-white">{player.player}</td>
-                        <td className="px-6 py-4 text-right font-bold text-white">{player.runs}</td>
-                        <td className="px-6 py-4 text-right text-slate-400">{player.balls}</td>
-                        <td className="px-6 py-4 text-right text-slate-400">-</td>
-                        <td className="px-6 py-4 text-right text-slate-400">-</td>
-                        <td className="px-6 py-4 text-right text-slate-400">{player.strike_rate}</td>
-                     </tr>
-                  ))}
-               </tbody>
-            </table>
+            <div className="overflow-x-auto">
+              <table className="w-full text-sm text-left">
+                 <thead className="text-xs text-slate-500 bg-slate-800/30 uppercase">
+                    <tr>
+                       <th className="px-6 py-3">Batter</th>
+                       <th className="px-6 py-3 text-right">R</th>
+                       <th className="px-6 py-3 text-right">B</th>
+                       <th className="px-6 py-3 text-right">4s</th>
+                       <th className="px-6 py-3 text-right">6s</th>
+                       <th className="px-6 py-3 text-right">SR</th>
+                    </tr>
+                 </thead>
+                 <tbody className="divide-y divide-slate-800">
+                    {match.top_scorers.map((player: any, idx: number) => (
+                       <tr key={idx} className="hover:bg-slate-800/30 transition-colors">
+                          <td className="px-6 py-4 font-medium text-white">{player.player}</td>
+                          <td className="px-6 py-4 text-right font-bold text-white">{player.runs}</td>
+                          <td className="px-6 py-4 text-right text-slate-400">{player.balls}</td>
+                          <td className="px-6 py-4 text-right text-slate-400">{player.fours || '-'}</td>
+                          <td className="px-6 py-4 text-right text-slate-400">{player.sixes || '-'}</td>
+                          <td className="px-6 py-4 text-right text-slate-400">{player.strike_rate}</td>
+                       </tr>
+                    ))}
+                 </tbody>
+              </table>
+            </div>
          </div>
 
          {/* Bowling Card */}
-         <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden">
+         <div className="bg-slate-900 rounded-xl border border-slate-800 overflow-hidden shadow-lg">
             <div className="bg-slate-800/50 px-6 py-4 border-b border-slate-800 flex justify-between items-center">
                <h3 className="font-bold text-white">Bowling</h3>
                <span className="text-xs text-slate-400">England</span>
             </div>
-            <table className="w-full text-sm text-left">
-               <thead className="text-xs text-slate-500 bg-slate-800/30 uppercase">
-                  <tr>
-                     <th className="px-6 py-3">Bowler</th>
-                     <th className="px-6 py-3 text-right">O</th>
-                     <th className="px-6 py-3 text-right">M</th>
-                     <th className="px-6 py-3 text-right">R</th>
-                     <th className="px-6 py-3 text-right">W</th>
-                     <th className="px-6 py-3 text-right">ECO</th>
-                  </tr>
-               </thead>
-               <tbody className="divide-y divide-slate-800">
-                  {match.top_wicket_takers.map((player: any, idx: number) => (
-                     <tr key={idx} className="hover:bg-slate-800/30 transition-colors">
-                        <td className="px-6 py-4 font-medium text-white">{player.player}</td>
-                        <td className="px-6 py-4 text-right text-slate-400">-</td>
-                        <td className="px-6 py-4 text-right text-slate-400">-</td>
-                        <td className="px-6 py-4 text-right text-slate-400">{player.runs}</td>
-                        <td className="px-6 py-4 text-right font-bold text-emerald-400">{player.wickets}</td>
-                        <td className="px-6 py-4 text-right text-slate-400">{player.economy}</td>
-                     </tr>
-                  ))}
-               </tbody>
-            </table>
+            <div className="overflow-x-auto">
+              <table className="w-full text-sm text-left">
+                 <thead className="text-xs text-slate-500 bg-slate-800/30 uppercase">
+                    <tr>
+                       <th className="px-6 py-3">Bowler</th>
+                       <th className="px-6 py-3 text-right">O</th>
+                       <th className="px-6 py-3 text-right">M</th>
+                       <th className="px-6 py-3 text-right">R</th>
+                       <th className="px-6 py-3 text-right">W</th>
+                       <th className="px-6 py-3 text-right">ECO</th>
+                    </tr>
+                 </thead>
+                 <tbody className="divide-y divide-slate-800">
+                    {match.top_wicket_takers.map((player: any, idx: number) => (
+                       <tr key={idx} className="hover:bg-slate-800/30 transition-colors">
+                          <td className="px-6 py-4 font-medium text-white">{player.player}</td>
+                          <td className="px-6 py-4 text-right text-slate-400">{player.overs || '-'}</td>
+                          <td className="px-6 py-4 text-right text-slate-400">-</td>
+                          <td className="px-6 py-4 text-right text-slate-400">{player.runs}</td>
+                          <td className="px-6 py-4 text-right font-bold text-emerald-400">{player.wickets}</td>
+                          <td className="px-6 py-4 text-right text-slate-400">{player.economy}</td>
+                       </tr>
+                    ))}
+                 </tbody>
+              </table>
+            </div>
          </div>
       </div>
    );
