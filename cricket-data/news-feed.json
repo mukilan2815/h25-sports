@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Maxwell's Madness: The Innings That Shook the MCG",
+    "summary": "Glenn Maxwell's explosive 45 off 28 balls sets the tone for Australia in the T20 series opener against England.",
+    "content": "Glenn Maxwell once again proved why he is one of the most feared strikers in T20 cricket...",
+    "category": "match report",
+    "author": "Cricket.com Staff",
+    "published_at": "2025-11-24T10:30:00Z",
+    "image_url": "/api/placeholder/800/400"
+  },
+  {
+    "id": "2",
+    "title": "Archer's Return: Pace and Precision",
+    "summary": "Jofra Archer marks his return to international cricket with a fiery spell, claiming 2 wickets.",
+    "content": "The wait is over. Jofra Archer is back in England colors and he hasn't lost a yard of pace...",
+    "category": "analysis",
+    "author": "Sarah Jones",
+    "published_at": "2025-11-24T09:15:00Z",
+    "image_url": "/api/placeholder/800/400"
+  },
+  {
+    "id": "3",
+    "title": "T20 World Cup 2026: Venues Announced",
+    "summary": "ICC reveals the host cities for the upcoming T20 World Cup in India and Sri Lanka.",
+    "content": "The International Cricket Council (ICC) has today confirmed the venues...",
+    "category": "news",
+    "author": "ICC Media",
+    "published_at": "2025-11-23T14:00:00Z",
+    "image_url": "/api/placeholder/800/400"
+  },
+  {
+    "id": "4",
+    "title": "Fan Poll: Who will win the Series?",
+    "summary": "Vote now! 60% of fans predict a 2-1 series victory for Australia.",
+    "content": "The excitement is building as the old rivals clash again...",
+    "category": "fan engagement",
+    "author": "Social Team",
+    "published_at": "2025-11-24T08:00:00Z",
+    "image_url": "/api/placeholder/800/400"
+  },
+  {
+    "id": "5",
+    "title": "The Science of Swing: New Ball Tracking Tech",
+    "summary": "A deep dive into the new physics engine powering our match analytics.",
+    "content": "Understanding the trajectory of the ball has never been more precise...",
+    "category": "feature",
+    "author": "Tech Desk",
+    "published_at": "2025-11-22T11:00:00Z",
+    "image_url": "/api/placeholder/800/400"
+  }
+]

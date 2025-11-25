@@ -1,0 +1,53 @@
+{
+  "hashtags": [
+    "#AUSvENG",
+    "#MaxwellMagic",
+    "#T20Cricket",
+    "#MCG",
+    "#CricketFever",
+    "#Ashes",
+    "#CricketTwitter"
+  ],
+  "mentions": 125000,
+  "sentiment": {
+    "positive": 0.65,
+    "neutral": 0.25,
+    "negative": 0.1
+  },
+  "topTweets": [
+    {
+      "id": "1",
+      "text": "Maxwell absolutely smashing it! What a player! 🔥 #AUSvENG",
+      "likes": 2540,
+      "retweets": 890,
+      "sentiment": "positive"
+    },
+    {
+      "id": "2",
+      "text": "England needs to step up their game in the middle overs #T20Cricket",
+      "likes": 1820,
+      "retweets": 542,
+      "sentiment": "neutral"
+    },
+    {
+      "id": "3",
+      "text": "Unbelievable atmosphere at the MCG! This is cricket at its finest! 🏏 #CricketFever",
+      "likes": 3120,
+      "retweets": 1240,
+      "sentiment": "positive"
+    },
+    {
+      "id": "4",
+      "text": "Australia showing why they are world champions! Dominant performance #MaxwellMagic",
+      "likes": 2890,
+      "retweets": 956,
+      "sentiment": "positive"
+    }
+  ],
+  "trending": [
+    { "player": "Glenn Maxwell", "mentions": 12500, "trend": "up" },
+    { "player": "Jos Buttler", "mentions": 8200, "trend": "neutral" },
+    { "player": "Mitchell Starc", "mentions": 6800, "trend": "up" },
+    { "player": "Jofra Archer", "mentions": 5400, "trend": "down" }
+  ]
+}
